@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BikeInfo.iml" filepath="$PROJECT_DIR$/BikeInfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BikeInfo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/BikeInfo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BikeInfo.test.iml" filepath="$PROJECT_DIR$/.idea/modules/BikeInfo.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/velodata.iml" filepath="$PROJECT_DIR$/.idea/velodata.iml" />
+    </modules>
+  </component>
+</project>
